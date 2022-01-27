@@ -1,11 +1,11 @@
-<h1 align="center">Hi, I'm Yeison👋, a passionate frontend developer👨🏻‍💻💻⚡💻</h1>
+<h1 align="center">Hi, I'm Yeison👋, a passionate frontend developer👨🏻‍💻💻⚡</h1>
 <img src="https://blog.desafiolatam.com/wp-content/uploads/2019/04/react-galaxia.png" alt="Img profile" width="100%" height="350"/>
 
 - 📝 I’m currently learning **TypeScript and React Native.**
 
 - 📩 How to reach me **rodriguezyj.rodriguez@gmail.com**
 
-<h2 align="left">Connect with me</h2>
+<h2 align="left">📎Connect with me</h2>
 <p align="left">
 <a href="https://linkedin.com/in/yeison rodríguez" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yeison rodríguez" height="30" width="40" /></a>
 </p>
