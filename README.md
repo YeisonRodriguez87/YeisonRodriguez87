@@ -1,6 +1,6 @@
 ### Hi there I'm Yeison 👋
 
-https://blog.desafiolatam.com/wp-content/uploads/2019/04/react-galaxia.png
+![image] (https://blog.desafiolatam.com/wp-content/uploads/2019/04/react-galaxia.png)
 
 <!--
 **YeisonRodriguez87/YeisonRodriguez87** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
