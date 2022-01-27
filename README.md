@@ -1,4 +1,4 @@
-### Hi, I'm Yeison, I'm a full stack web developer. 👋
+### Hi, I'm Yeison, I'm a full stack web developer with a penchant for front end development. 👋
 
 ![img](https://blog.desafiolatam.com/wp-content/uploads/2019/04/react-galaxia.png)
 
