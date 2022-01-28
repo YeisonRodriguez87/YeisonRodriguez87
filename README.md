@@ -1,7 +1,7 @@
-<h1 align="center">Hi, I'm Yeison👋, a passionate frontend developer👨🏻‍💻💻⚡</h1>
+<h2 align="center">Hi, I'm Yeison👋, a passionate frontend developer👨🏻‍💻💻⚡</h2>
 <img src="https://blog.desafiolatam.com/wp-content/uploads/2019/04/react-galaxia.png" alt="Img profile" min-width="40" min-height="20"/>
 
-- 📝 I’m currently learning **TypeScript and React Native.**
+- 📝 I’m currently learning **TypeScript, ReactJS and React Native.**
 - 📩 How to reach me **rodriguezyj.rodriguez@gmail.com**
   
 <h2 align="left">🚀Skills</h2>
