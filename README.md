@@ -16,5 +16,11 @@
 <h2 align="left">📌My proyects</h2>
 <div>
   <h2 align="left">🌎Countries App</h2>
-  <img align="center" src="" alt="Countries App" height="40" width="50" />
+  <p align="left"> 
+    <img src="./images/countriesApp/LandingPage" alt="Landing Page" width="40" height="40"/>
+    <img src="./images/countriesApp/HomePage" alt="Landing Page" width="40" height="40"/>
+    <img src="./images/countriesApp/CardCountry" alt="Landing Page" width="40" height="40"/>
+    <img src="./images/countriesApp/DetailCountry" alt="Landing Page" width="40" height="40"/>
+    <img src="./images/countriesApp/Form" alt="Landing Page" width="40" height="40"/>
+  </p>
 </div>
