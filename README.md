@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Yeison👋, a passionate frontend developer👨🏻‍💻💻⚡</h1>
-<img src="https://blog.desafiolatam.com/wp-content/uploads/2019/04/react-galaxia.png" alt="Img profile" width="20" height="20"/>
+<img src="https://blog.desafiolatam.com/wp-content/uploads/2019/04/react-galaxia.png" alt="Img profile" min-width="20" min-height="20"/>
 
 - 📝 I’m currently learning **TypeScript and React Native.**
 
