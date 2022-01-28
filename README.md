@@ -17,10 +17,10 @@
 <div>
   <h4 align="left">🌎Countries App</h4>
   <p align="left"> 
-    <img src="./images/countriesApp/LandingPage.png" alt="Landing Page" min-width="150" min-height="150"/>
-    <img src="./images/countriesApp/HomePage.png" alt="Landing Page" min-width="150" min-height="150"/>
-    <img src="./images/countriesApp/CardCountry.png" alt="Landing Page" min-width="150" min-height="150"/>
-    <img src="./images/countriesApp/DetailCountry.png" alt="Landing Page" min-width="150" min-height="150"/>
-    <img src="./images/countriesApp/Form.png" alt="Landing Page" min-width="150" min-height="150"/>
+    <img src="./images/countriesApp/LandingPage.png" alt="Landing Page" min-width="100" min-height="100"/>
+    <img src="./images/countriesApp/HomePage.png" alt="Landing Page" min-width="100" min-height="100"/>
+    <img src="./images/countriesApp/CardCountry.png" alt="Landing Page" min-width="100" min-height="100"/>
+    <img src="./images/countriesApp/DetailCountry.png" alt="Landing Page" min-width="100" min-height="100"/>
+    <img src="./images/countriesApp/Form.png" alt="Landing Page" min-width="100" min-height="100"/>
   </p>
 </div>
