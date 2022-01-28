@@ -9,6 +9,7 @@
 
 <h2 align="left">📌My proyects</h2>
   <h4 align="left">🌎Countries App</h4>
+  <p align="left"><strong>Technologies:</strong> ReactJS, HTML, CSS modules, NodeJS, Express, Sequelize and PostgreSQL.</p>
   <p align="left"> 
     <img src="./images/countriesApp/LandingPage.png" alt="Landing Page" min-width="10" min-height="10"/>
     <img src="./images/countriesApp/HomePage.png" alt="Landing Page" min-width="10" min-height="10"/>
@@ -18,6 +19,7 @@
   </p>
   
   <h4 align="left">🌦️Weather App</h4>
+  <p align="left"><strong>Technologies:</strong> ReactJS, HTML, CSS modules.</p>
   <p align="left"> 
     <img src="./images/countriesApp/Home.png" alt="Home" min-width="10" min-height="10"/>
     <img src="./images/countriesApp/Cities.png" alt="Cities" min-width="10" min-height="10"/>
