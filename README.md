@@ -17,7 +17,7 @@
 <div>
   <h4 align="left">🌎Countries App</h4>
   <p align="left"> 
-    <img src="./images/countriesApp/LandingPage.png" alt="Landing Page" width="200" height="200"/>
+    <img src="./images/countriesApp/LandingPage.png" alt="Landing Page" min-width="200" min-height="200"/>
     <img src="./images/countriesApp/HomePage.png" alt="Landing Page" width="300" height="200"/>
     <img src="./images/countriesApp/CardCountry.png" alt="Landing Page" width="200" height="200"/>
     <img src="./images/countriesApp/DetailCountry.png" alt="Landing Page" width="200" height="200"/>
