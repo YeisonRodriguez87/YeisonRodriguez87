@@ -15,7 +15,7 @@
 
 <h2 align="left">📌My proyects</h2>
 <div>
-  <h1 align="left">🌎Countries App</h1>
+  <h4 align="left">🌎Countries App</h4>
   <p align="left"> 
     <img src="./images/countriesApp/LandingPage" alt="Landing Page" width="40" height="40"/>
     <img src="./images/countriesApp/HomePage" alt="Landing Page" width="40" height="40"/>
