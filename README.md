@@ -1,4 +1,4 @@
-<h2 align="center">Hola, soy Yeison👋, un desarrollador frontend en formación continua👨🏻‍💻💻⚡</h2>
+<h2 align="center">Hola, soy Yeison👋, un desarrollador frontend apasionado👨🏻‍💻💻⚡</h2>
 <img src="https://blog.desafiolatam.com/wp-content/uploads/2019/04/react-galaxia.png" alt="Img profile" min-width="40" min-height="20"/>
 
 - 📝 Actualmente estoy aprendiendo **TypeScript, ReactJS y React Native.**
