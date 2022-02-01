@@ -29,5 +29,19 @@
   
 <h2 align="left">📎Conectate conmigo</h2>
 <p align="left">
-<a href="https://www.linkedin.com/in/yeison-rodr%C3%ADguez/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yeison rodríguez" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/yeison-rodr%C3%ADguez/" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yeison rodríguez" height="30" width="40"/>
+  </a>
 </p>
+
+<hr>
+<br />
+<p align=center>
+    <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
+        <img height=205 width=380 align="center" src="https://github-readme-stats.vercel.app/api?username=YeisonRodriguez87&show_icons=true&theme=tokyonight">
+    </a>
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+<img height=205  width=380 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YeisonRodriguez87&hide=c%23,powershell,java&title_color=2aa889&text_color=99d1ce&icon_color=2bbc8a&bg_color=0c1014&langs_count=8&layout=compact" />
+    </a>
+</p>
+<hr>
