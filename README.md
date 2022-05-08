@@ -1,7 +1,7 @@
 <h2 align="center">Hola, soy Yeison👋, un desarrollador web fullstack con orientación al frontend👨🏻‍💻💻⚡</h2>
 <img src="https://blog.desafiolatam.com/wp-content/uploads/2019/04/react-galaxia.png" alt="Img profile" min-width="40" min-height="20"/>
 
-- 📝 Actualmente estoy aprendiendo **Angular, VueJS y React Native** y reforzando **ReactJS.**
+- 📝 Actualmente estoy aprendiendo **Angular, VueJS, React Native** y reforzando **ReactJS.**
 - 📩 Contáctame **rodriguezyj.rodriguez@gmail.com**
   
 <h2 align="left">🚀Habilidades</h2>
