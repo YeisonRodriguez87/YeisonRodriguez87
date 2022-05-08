@@ -1,7 +1,7 @@
-<h2 align="center">Hola, soy Yeison👋, un desarrollador frontend apasionado👨🏻‍💻💻⚡</h2>
+<h2 align="center">Hola, soy Yeison👋, un desarrollador web fullstack con orientación al frontend👨🏻‍💻💻⚡</h2>
 <img src="https://blog.desafiolatam.com/wp-content/uploads/2019/04/react-galaxia.png" alt="Img profile" min-width="40" min-height="20"/>
 
-- 📝 Actualmente estoy aprendiendo **TypeScript, ReactJS y React Native.**
+- 📝 Actualmente estoy aprendiendo **Angular, VueJS y React Native** y reforzando **ReactJS.**
 - 📩 Contáctame **rodriguezyj.rodriguez@gmail.com**
   
 <h2 align="left">🚀Habilidades</h2>
@@ -12,10 +12,10 @@
   <p align="left"><strong>Tecnologías:</strong> ReactJS, HTML, CSS modules, NodeJS, Express, Sequelize and PostgreSQL.</p>
   <p align="left"> 
     <img src="./images/countriesApp/LandingPage.png" alt="Landing Page" min-width="10" min-height="10"/>
-    <img src="./images/countriesApp/HomePage.png" alt="Landing Page" min-width="10" min-height="10"/>
-    <img src="./images/countriesApp/CardCountry.png" alt="Landing Page" min-width="10" min-height="10"/>
-    <img src="./images/countriesApp/DetailCountry.png" alt="Landing Page" min-width="10" min-height="10"/>
-    <img src="./images/countriesApp/Form.png" alt="Landing Page" min-width="10" min-height="10"/>
+    <img src="./images/countriesApp/HomePage.png" alt="Home Page" min-width="10" min-height="10"/>
+    <img src="./images/countriesApp/CardCountry.png" alt="Card Country" min-width="10" min-height="10"/>
+    <img src="./images/countriesApp/DetailCountry.png" alt="Detail Country" min-width="10" min-height="10"/>
+    <img src="./images/countriesApp/Form.png" alt="Form" min-width="10" min-height="10"/>
   </p>
   
   <h3 align="left">🌦️Weather App</h3>
