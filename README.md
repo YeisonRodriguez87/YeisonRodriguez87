@@ -1,4 +1,4 @@
-<h2 align="center">Hola👋, cómo estás?, soy Yeison, un Desarrollador Web Fullstack con orientación al Frontend👨🏻‍💻💻⚡</h2>
+<h3 align="center">Hola👋, cómo estás?, soy Yeison, un Desarrollador Web Fullstack con orientación al Frontend👨🏻‍💻💻⚡</h3>
 <img src="https://blog.desafiolatam.com/wp-content/uploads/2019/04/react-galaxia.png" alt="Img profile" min-width="40" min-height="20"/>
 
 - 📝 Actualmente estoy aprendiendo **React Native y PHP** y reforzando **NodeJS y ReactJS. en general**
