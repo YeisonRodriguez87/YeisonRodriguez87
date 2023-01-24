@@ -30,7 +30,7 @@
   
 <h2 align="left">📎Conectate conmigo</h2>
 <p align="left">
-  <a href="https://www.linkedin.com/in/yeison-rodr%C3%ADguez/" target="_blank">
+  <a href="https://www.linkedin.com/in/dev-yeison-rodriguez/" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yeison rodríguez" height="30" width="40"/>
   </a>
 </p>
