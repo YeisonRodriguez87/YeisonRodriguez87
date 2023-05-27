@@ -1,7 +1,7 @@
 <h3 align="center">Hola👋, soy Yeison, un Desarrollador Frontend y Mobile!!!👨🏻‍💻💻⚡</h3>
 <img src="https://blog.desafiolatam.com/wp-content/uploads/2019/04/react-galaxia.png" alt="Img profile" min-width="30" min-height="10"/>
 
-- 📝 Actualmente estoy aprendiendo **React Native, TypeScript, NextJS y Python** y reforzando **NodeJS y ReactJS. en general**
+- 📝 Actualmente estoy aprendiendo **React Native, TypeScript, NextJS y Python** y reforzando **ReactJS en general**
 - 📩 Contáctame **rodriguezyj.rodriguez@gmail.com**
   
 <h2 align="left">🚀Habilidades</h2>
